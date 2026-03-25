@@ -209,8 +209,8 @@ Result: **Fully ML-compatible dataset**
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/laptop-data-cleaning-mysql.git
-cd laptop-data-cleaning-mysql
+git clone https://github.com/your-username/MYSQL_LAPTOP_DATA_PIPELINE.git
+cd MYSQL_LAPTOP_DATA_PIPELINE
 ```
 
 ---
@@ -218,7 +218,7 @@ cd laptop-data-cleaning-mysql
 ### 2. Import Dataset
 
 - Open **MySQL Workbench**
-- Import `laptopData.xlsx` into table named:
+- Import `laptops.xlsx` into table named:
 
 ```
 laptops
